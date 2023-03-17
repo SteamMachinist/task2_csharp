@@ -8,14 +8,21 @@ namespace task2_csharp
 {
     internal class FileHandler
     {
-        public static string readFile(string path) 
+        public string readFile(string filename) 
         { 
-            return File.ReadAllText(path); 
+            return File.ReadAllText(preparePath(filename)); 
         }
 
-        public static void writeFile(string path, string content)
+        public void writeFile(string filename, string content)
         {
-            File.WriteAllText(path, content);
+            File.WriteAllText(filename + "_processed", content);
+        }
+
+        private string preparePath(string filename) 
+        {
+            string relation = @"..\..\..\texts\";
+            string path = Path.Combine(Environment.CurrentDirectory, relation, filename + ".txt");
+            return path;
         }
     }
 }

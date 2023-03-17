@@ -1,0 +1,15 @@
+D:\c# projects\task2_csharp\bin\Debug\net7.0\task2_csharp.exe
+D:\c# projects\task2_csharp\bin\Debug\net7.0\task2_csharp.deps.json
+D:\c# projects\task2_csharp\bin\Debug\net7.0\task2_csharp.runtimeconfig.json
+D:\c# projects\task2_csharp\bin\Debug\net7.0\task2_csharp.dll
+D:\c# projects\task2_csharp\bin\Debug\net7.0\task2_csharp.pdb
+D:\c# projects\task2_csharp\obj\Debug\net7.0\task2_csharp.csproj.AssemblyReference.cache
+D:\c# projects\task2_csharp\obj\Debug\net7.0\task2_csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\task2_csharp\obj\Debug\net7.0\task2_csharp.AssemblyInfoInputs.cache
+D:\c# projects\task2_csharp\obj\Debug\net7.0\task2_csharp.AssemblyInfo.cs
+D:\c# projects\task2_csharp\obj\Debug\net7.0\task2_csharp.csproj.CoreCompileInputs.cache
+D:\c# projects\task2_csharp\obj\Debug\net7.0\task2_csharp.dll
+D:\c# projects\task2_csharp\obj\Debug\net7.0\refint\task2_csharp.dll
+D:\c# projects\task2_csharp\obj\Debug\net7.0\task2_csharp.pdb
+D:\c# projects\task2_csharp\obj\Debug\net7.0\task2_csharp.genruntimeconfig.cache
+D:\c# projects\task2_csharp\obj\Debug\net7.0\ref\task2_csharp.dll

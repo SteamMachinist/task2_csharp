@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\task2_csharp\\task2_csharp.csproj": {}
+    "D:\\c# projects\\task2_csharp\\task2_csharp.csproj": {}
   },
   "projects": {
-    "C:\\task2_csharp\\task2_csharp.csproj": {
+    "D:\\c# projects\\task2_csharp\\task2_csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\task2_csharp\\task2_csharp.csproj",
+        "projectUniqueName": "D:\\c# projects\\task2_csharp\\task2_csharp.csproj",
         "projectName": "task2_csharp",
-        "projectPath": "C:\\task2_csharp\\task2_csharp.csproj",
-        "packagesPath": "C:\\Users\\rando\\.nuget\\packages\\",
-        "outputPath": "C:\\task2_csharp\\obj\\",
+        "projectPath": "D:\\c# projects\\task2_csharp\\task2_csharp.csproj",
+        "packagesPath": "C:\\Users\\Yaroslav\\.nuget\\packages\\",
+        "outputPath": "D:\\c# projects\\task2_csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yaroslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
