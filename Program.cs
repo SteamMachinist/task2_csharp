@@ -7,17 +7,21 @@ namespace task2_csharp
     internal class Program
     {
         readonly static FileHandler fileHandler = new FileHandler();
-        readonly static Replacer replacer= new Replacer();
+        readonly static Replacer replacer = new Replacer();
 
         static void Main(string[] args)
         {
             string filename = readFilename();
-            string text = fileHandler.readFile(readFilename());
-            Console.WriteLine(text);
-            Console.WriteLine();
-            text = replacer.replaceNumbersWithNumberNames(text);
-            Console.WriteLine(text);
-            fileHandler.writeFile(filename, text);
+            
+            using (var reader = fileHandler.streamReaderFile(filename))
+            using (var writer = fileHandler.streamWriterFile(filename))
+            {
+                while (reader.Peek() >= 0)
+                {
+                    string processed = replacer.replaceNumbersWithNumberNames(reader.ReadLine());
+                    writer.WriteLine(processed);
+                }
+            }
         }
 
         static string readFilename()

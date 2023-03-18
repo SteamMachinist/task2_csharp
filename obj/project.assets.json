@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Yaroslav\\.nuget\\packages\\": {}
+    "C:\\Users\\rando\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c# projects\\task2_csharp\\task2_csharp.csproj",
+      "projectUniqueName": "C:\\task2_csharp\\task2_csharp.csproj",
       "projectName": "task2_csharp",
-      "projectPath": "D:\\c# projects\\task2_csharp\\task2_csharp.csproj",
-      "packagesPath": "C:\\Users\\Yaroslav\\.nuget\\packages\\",
-      "outputPath": "D:\\c# projects\\task2_csharp\\obj\\",
+      "projectPath": "C:\\task2_csharp\\task2_csharp.csproj",
+      "packagesPath": "C:\\Users\\rando\\.nuget\\packages\\",
+      "outputPath": "C:\\task2_csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Yaroslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rando\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
